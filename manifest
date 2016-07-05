@@ -14,4 +14,5 @@ name: Messages
 moduleid: br.com.arlsoft.messages
 guid: 253ad4d6-2329-4ae4-b275-529601decdaa
 platform: iphone
+architectures: armv7 i386 x86_64 arm64
 minsdk: 3.2.1.GA
